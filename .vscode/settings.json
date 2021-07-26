@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.codeLens.recentChange.enabled": true,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line"
+}

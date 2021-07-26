@@ -1,0 +1,16 @@
+.login,
+.image {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-size: cover;
+  background-position: center center;
+}
+button{
+    color:#354052;
+}
+.btn{
+    background-color:#354052;
+    border-color:#354052;
+}
